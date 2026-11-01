@@ -1,6 +1,6 @@
 :HL["/_next/static/css/866641490bf94713.css","style"]
-:HL["/_next/static/css/a6d782051542d65c.css","style"]
+:HL["/_next/static/css/0e20e6fa1b865078.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"double-chocolate-muffin","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"menu","h":96,"c":"$Q2"}]]
-0:{"b":"DziwPrXj1s_HhIpEqbqFo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Rd1-kkGhrFfmnWU3cHlxR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
